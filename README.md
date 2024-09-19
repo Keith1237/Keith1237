@@ -13,7 +13,7 @@
   <!-- About Section -->
   <p>- 🔭 I’m currently working on <strong>Web API CW</strong></p>
   <p>- 🌱 I’m currently learning <strong>React, AI</strong></p>
-  <p>- 📫 How to reach me: <strong>keithpraveen23@gmail.com</strong></p>
+  <p>- 📫 How to reach me: <strong>keithpraveen23@gmail.com </strong></p>
 
   <!-- Social Links -->
   <h3>Connect with me:</h3>
